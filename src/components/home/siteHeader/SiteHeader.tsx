@@ -45,7 +45,7 @@ const SiteHeader = () => {
 
                             <div className="absolute right-0 z-10 ">
                               {toggle && (
-                                <div className="bg-white py-2  w-[180px]">
+                                <div className="bg-white py-2  w-[190px] px-4 ">
                                   <h5 className="hover:bg-indigo-500  hover:py-2 hover:px-4 hover:text-white hover:rounded-md">Account settings</h5>
                                   <h5 className="hover:bg-indigo-500  hover:py-2 hover:px-4 hover:text-white hover:rounded-md">Support</h5>
                                   <h5 className="hover:bg-indigo-500  hover:py-2 hover:px-4 hover:text-white hover:rounded-md">Sign out</h5>
